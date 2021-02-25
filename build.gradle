@@ -32,7 +32,7 @@ dependencies {
 
 	// Dropwizard dependencies
 	compile('com.ryantenney.metrics:metrics-spring:3.1.2')
-	compile('io.dropwizard.metrics:metrics-graphite:3.1.2')
+	compile('io.dropwizard.metrics:metrics-graphite:4.1.18')
 	compile('io.dropwizard.metrics:metrics-jvm:3.1.2')
 	compile('io.dropwizard.metrics:metrics-servlets:3.1.2')
 
